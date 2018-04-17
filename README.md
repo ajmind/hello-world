@@ -1,6 +1,6 @@
 # hello-world
-Dies ist ein Testprojekt
+Dies ist ein Testprojekt, ohne wirklichen Sinn.
 
-Ich bin deer Chef hier!
+Ich bin der Chef hier!
 
-So soll es sein
+So soll es sein!
